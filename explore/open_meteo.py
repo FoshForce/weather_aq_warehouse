@@ -1,5 +1,5 @@
 import requests
-import pandas as pd 
+import pandas as pd
 
 url = "https://api.open-meteo.com/v1/forecast"
 params = {

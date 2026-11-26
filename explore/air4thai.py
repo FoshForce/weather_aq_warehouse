@@ -11,4 +11,4 @@ print("Keys ชั้นนอก:", list(data.keys()))
 stations = data["stations"]
 print("จำนวนสถานี:", len(stations))
 
-print(json.dumps(stations[0], ensure_ascii=False, indent=2))
+print(json.dumps(stations[1], ensure_ascii=False, indent=2))
